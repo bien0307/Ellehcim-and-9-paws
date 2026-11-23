@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
+  <rect width="512" height="512" rx="112" fill="#19261E" />
+  <circle cx="256" cy="256" r="196" fill="#23372B" stroke="#F2B84B" stroke-width="12" />
+  <!-- Paw toes -->
+  <ellipse cx="176" cy="186" rx="28" ry="38" transform="rotate(-16 176 186)" fill="#FCE4B0" />
+  <ellipse cx="228" cy="148" rx="26" ry="36" transform="rotate(-5 228 148)" fill="#FCE4B0" />
+  <ellipse cx="284" cy="148" rx="26" ry="36" transform="rotate(5 284 148)" fill="#FCE4B0" />
+  <ellipse cx="336" cy="186" rx="28" ry="38" transform="rotate(16 336 186)" fill="#FCE4B0" />
+  <!-- Main paw pad -->
+  <path d="M174 300 C174 246 218 214 256 214 C294 214 338 246 338 300 C338 342 304 370 256 370 C208 370 174 342 174 300 Z" fill="#FCE4B0" />
+  <!-- Heart inside paw pad -->
+  <path d="M256 340 C256 340 212 312 212 284 C212 268 224 256 238 256 C247 256 253 261 256 268 C259 261 265 256 274 256 C288 256 300 268 300 284 C300 312 256 340 256 340 Z" fill="#E66C5A" />
+</svg>

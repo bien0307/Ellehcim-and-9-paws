@@ -1,0 +1,8 @@
+{
+  "name": "Remix Ellehcim \u0026 The Nine Paws",
+  "description": "A heartwarming mobile-ready 2D adventure game where Ellehcim and her four loyal dogs search the valley to rescue their five lost pups and spread love.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
